@@ -5,5 +5,11 @@ public class Main {
         System.out.println(
                 car.toString()
         );
+
+        Animals lion= Animals.LION;
+        System.out.println(lion);
+
+        Animals zebra= Animals.ZEBRA;
+        System.out.println(zebra);
     }
 }
